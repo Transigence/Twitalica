@@ -133,12 +133,12 @@ namespace Twitalica
             // 
             this.radioBlaBo.AutoSize = true;
             this.radioBlaBo.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioBlaBo.Location = new System.Drawing.Point(253, 152);
+            this.radioBlaBo.Location = new System.Drawing.Point(261, 152);
             this.radioBlaBo.Name = "radioBlaBo";
             this.radioBlaBo.Size = new System.Drawing.Size(71, 21);
             this.radioBlaBo.TabIndex = 8;
             this.radioBlaBo.TabStop = true;
-            this.radioBlaBo.Text = "BlaBo";
+            this.radioBlaBo.Text = "𝕭𝖑𝖆𝕭𝖔";
             this.radioBlaBo.UseVisualStyleBackColor = true;
             this.radioBlaBo.CheckedChanged += new System.EventHandler(this.radioBlaBo_CheckedChanged);
             // 
@@ -146,12 +146,12 @@ namespace Twitalica
             // 
             this.radioBlackletter.AutoSize = true;
             this.radioBlackletter.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioBlackletter.Location = new System.Drawing.Point(152, 152);
+            this.radioBlackletter.Location = new System.Drawing.Point(168, 152);
             this.radioBlackletter.Name = "radioBlackletter";
-            this.radioBlackletter.Size = new System.Drawing.Size(95, 21);
+            this.radioBlackletter.Size = new System.Drawing.Size(80, 21);
             this.radioBlackletter.TabIndex = 7;
             this.radioBlackletter.TabStop = true;
-            this.radioBlackletter.Text = "Blackletter";
+            this.radioBlackletter.Text = "𝔅𝔩𝔞𝔠𝔨𝔩𝔢𝔱𝔱𝔢𝔯";
             this.radioBlackletter.UseVisualStyleBackColor = true;
             this.radioBlackletter.CheckedChanged += new System.EventHandler(this.radioBlackletter_CheckedChanged);
             // 
@@ -159,12 +159,12 @@ namespace Twitalica
             // 
             this.radioScrBo.AutoSize = true;
             this.radioScrBo.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioScrBo.Location = new System.Drawing.Point(74, 152);
+            this.radioScrBo.Location = new System.Drawing.Point(82, 152);
             this.radioScrBo.Name = "radioScrBo";
-            this.radioScrBo.Size = new System.Drawing.Size(72, 21);
+            this.radioScrBo.Size = new System.Drawing.Size(73, 21);
             this.radioScrBo.TabIndex = 6;
             this.radioScrBo.TabStop = true;
-            this.radioScrBo.Text = "ScrBo";
+            this.radioScrBo.Text = "𝓢𝓬𝓻𝓑𝓸";
             this.radioScrBo.UseVisualStyleBackColor = true;
             this.radioScrBo.CheckedChanged += new System.EventHandler(this.radioScrBo_CheckedChanged);
             // 
@@ -174,10 +174,10 @@ namespace Twitalica
             this.radioScript.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.radioScript.Location = new System.Drawing.Point(3, 152);
             this.radioScript.Name = "radioScript";
-            this.radioScript.Size = new System.Drawing.Size(65, 21);
+            this.radioScript.Size = new System.Drawing.Size(73, 21);
             this.radioScript.TabIndex = 5;
             this.radioScript.TabStop = true;
-            this.radioScript.Text = "Script";
+            this.radioScript.Text = "𝒮𝒸𝓇𝒾𝓅𝓉";
             this.radioScript.UseVisualStyleBackColor = true;
             this.radioScript.CheckedChanged += new System.EventHandler(this.radioScript_CheckedChanged);
             // 
