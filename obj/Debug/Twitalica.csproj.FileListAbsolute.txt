@@ -1,0 +1,10 @@
+C:\Users\padge\Workspaces\Twitalica\Twitalica\bin\Debug\Twitalica.exe.config
+C:\Users\padge\Workspaces\Twitalica\Twitalica\bin\Debug\Twitalica.exe
+C:\Users\padge\Workspaces\Twitalica\Twitalica\bin\Debug\Twitalica.pdb
+C:\Users\padge\Workspaces\Twitalica\Twitalica\obj\Debug\Twitalica.csproj.AssemblyReference.cache
+C:\Users\padge\Workspaces\Twitalica\Twitalica\obj\Debug\Twitalica.FormMain.resources
+C:\Users\padge\Workspaces\Twitalica\Twitalica\obj\Debug\Twitalica.Properties.Resources.resources
+C:\Users\padge\Workspaces\Twitalica\Twitalica\obj\Debug\Twitalica.csproj.GenerateResource.cache
+C:\Users\padge\Workspaces\Twitalica\Twitalica\obj\Debug\Twitalica.csproj.CoreCompileInputs.cache
+C:\Users\padge\Workspaces\Twitalica\Twitalica\obj\Debug\Twitalica.exe
+C:\Users\padge\Workspaces\Twitalica\Twitalica\obj\Debug\Twitalica.pdb
